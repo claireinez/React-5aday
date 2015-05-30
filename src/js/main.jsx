@@ -1,4 +1,4 @@
 var React = require("react");
-var User = require("./components/User.jsx");
+var AppFruit = require("./components/AppFruit.jsx");
 
-React.render(<User />, document.getElementById("content"));
+React.render(<AppFruit />, document.getElementById("content"));
